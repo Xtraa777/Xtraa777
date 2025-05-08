@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**Xtraa777/Xtraa777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xtraa777&show_icons=true&theme=radical)
+	
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Repository
+- 📕 [moayoeats](https://github.com/moayoeats/moayoeats) : [팀프로젝트] 알림 기능, 실시간 채팅과 위치 정보를 기반으로 한 배달 공유 플랫폼, 모아요이츠
+- ☕ [my-java-backend-roadmap](https://github.com/Xtraa777/my-java-backend-roadmap) : 자바 토이 프로젝트와 실습 및 복습
+- 🍃 [spring-learning](https://github.com/Xtraa777/spring-learning) : 스프링 프레임워크와 스프링 부트, 스프링과 관련한 공부
+
+---
+
+[![Xtraa's Notion Blog](https://img.shields.io/badge/Xtraa's%20Notion%20Blog-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://xtraa.notion.site/Xtraa-ed48ac432d354d01b5bf5b0da5ec94a9?pvs=4)
